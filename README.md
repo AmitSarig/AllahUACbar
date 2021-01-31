@@ -1,4 +1,4 @@
 # AllahUACbar
 
-Usage:
+# Usage:
 AllahUACBar.exe [path to executable (default cmd.exe)]
